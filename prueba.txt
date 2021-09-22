@@ -1,2 +1,6 @@
 Ingresando el primer texto en prueba.txt
+<<<<<<< HEAD
 Agrego esta linea en la rama master
+=======
+Ajuste en la rama publicador
+>>>>>>> publicador
